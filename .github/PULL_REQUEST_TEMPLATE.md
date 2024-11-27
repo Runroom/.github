@@ -20,5 +20,6 @@ Ensure your pull request meets the following requirements:
 
 - [ ] Tests have been added or updated.
 - [ ] Documentation has been updated (if applicable).
+- [ ] I have applied neccessary labels to this PR.
 - [ ] I have tested this change locally and on staging.
 - [ ] At a functional level, it has been validated with the team/PO.
